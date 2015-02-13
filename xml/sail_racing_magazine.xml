@@ -1,0 +1,418 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Sail Racing Magazine Podcast</title>
+		<link>http://www.sailracingmagazine.com/</link>
+		<description>Podcast versions of Sail Racing Magazine's interviews with the world's best professional racing sailors. Also check out our free monthly iPad magazine at sailracingmagazine.com or in the Apple App Store.</description>
+		<language>en</language>
+		<lastBuildDate>Sun, 08 February 2015 06:29:00 +0900</lastBuildDate>
+		<copyright>
+		Sail Racing Magazine
+		</copyright>
+		<category>Podcast</category>
+		<itunes:category text="Podcast"/>
+		<itunes:subtitle>Sail Racing Magazine Podcast</itunes:subtitle>
+		<image>
+		<url>http://static1.squarespace.com/static/518aa3eee4b04323d507b898/t/5478bcabe4b097668b21a585/1417203508026/SRM+LOGO+June+2013+black+and+red.png?format=1500w</url>
+		<link>http://www.sailracingmagazine.com/</link>
+		<title>Sail Racing Magazine Podcast</title>
+		</image>
+		<itunes:author>Sail Racing Magazine</itunes:author>
+		<itunes:summary/>
+		<generator>http://www.sixapart.com/movabletype/</generator>
+		<itunes:owner>
+		<itunes:name>TSail Racing Magazine Podcast</itunes:name>
+		<itunes:email/>
+		</itunes:owner>
+		<itunes:image href="http://static1.squarespace.com/static/518aa3eee4b04323d507b898/t/5478bcabe4b097668b21a585/1417203508026/SRM+LOGO+June+2013+black+and+red.png?format=1500w"/>
+		<item>
+			<title>Episode 01 - Mark Ivey on coaching the Swedish Star Olympic champions at London 2012</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2001%20-%20Mark%20Ivey%20on%20coaching%20the%20Swedish%20Star%20Olympic%20champions%20at%20London%202012.mp3</link>
+			<description></description>
+			<guid>Episode 01 - Mark Ivey on coaching the Swedish Star Olympic champions at London 2012.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2001%20-%20Mark%20Ivey%20on%20coaching%20the%20Swedish%20Star%20Olympic%20champions%20at%20London%202012.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 02 - Michael Menninger on preparing for the Red Bull Youth America's Cup</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2002%20-%20Michael%20Menninger%20on%20preparing%20for%20the%20Red%20Bull%20Youth%20America's%20Cup.mp3</link>
+			<description></description>
+			<guid>Episode 02 - Michael Menninger on preparing for the Red Bull Youth America's Cup.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2002%20-%20Michael%20Menninger%20on%20preparing%20for%20the%20Red%20Bull%20Youth%20America's%20Cup.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 03 - Richard Brisius on Team SCA all-women Volvo Ocean Race campaign</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2003%20-%20Richard%20Brisius%20on%20Team%20SCA%20all-women%20Volvo%20Ocean%20Race%20campaign.mp3</link>
+			<description></description>
+			<guid>Episode 03 - Richard Brisius on Team SCA all-women Volvo Ocean Race campaign.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2003%20-%20Richard%20Brisius%20on%20Team%20SCA%20all-women%20Volvo%20Ocean%20Race%20campaign.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 04 - Laser gold medallist Paul Goodison weighs up a return to Olympic sailing</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2004%20-%20Laser%20gold%20medallist%20Paul%20Goodison%20weighs%20up%20a%20return%20to%20Olympic%20sailing.mp3</link>
+			<description></description>
+			<guid>Episode 04 - Laser gold medallist Paul Goodison weighs up a return to Olympic sailing.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2004%20-%20Laser%20gold%20medallist%20Paul%20Goodison%20weighs%20up%20a%20return%20to%20Olympic%20sailing.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 05 - Charlie McKee on rebuilding the US Olympic sailing team</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2005%20-%20Charlie%20McKee%20on%20rebuilding%20the%20US%20Olympic%20sailing%20team.mp3</link>
+			<description></description>
+			<guid>Episode 05 - Charlie McKee on rebuilding the US Olympic sailing team.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2005%20-%20Charlie%20McKee%20on%20rebuilding%20the%20US%20Olympic%20sailing%20team.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 06 - Ken Read – President North Sails</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2006%20-%20Ken%20Read%20%E2%80%93%20President%20North%20Sails.mp3</link>
+			<description></description>
+			<guid>Episode 06 - Ken Read – President North Sails.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2006%20-%20Ken%20Read%20%E2%80%93%20President%20North%20Sails.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 07 - Peter Bayer Open Sports Management – IMOCA</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2007%20-%20Peter%20Bayer%20Open%20Sports%20Management%20%E2%80%93%20IMOCA.mp3</link>
+			<description></description>
+			<guid>Episode 07 - Peter Bayer Open Sports Management – IMOCA.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2007%20-%20Peter%20Bayer%20Open%20Sports%20Management%20%E2%80%93%20IMOCA.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 08 - Jack Lloyd - Race Director at the Volvo Ocean Race</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2008%20-%20Jack%20Lloyd%20-%20Race%20Director%20at%20the%20Volvo%20Ocean%20Race.mp3</link>
+			<description></description>
+			<guid>Episode 08 - Jack Lloyd - Race Director at the Volvo Ocean Race.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2008%20-%20Jack%20Lloyd%20-%20Race%20Director%20at%20the%20Volvo%20Ocean%20Race.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 09 - Ian Walker - Abu Dhabi Ocean Racing skipper</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2009%20-%20Ian%20Walker%20-%20Abu%20Dhabi%20Ocean%20Racing%20skipper.mp3</link>
+			<description></description>
+			<guid>Episode 09 - Ian Walker - Abu Dhabi Ocean Racing skipper.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2009%20-%20Ian%20Walker%20-%20Abu%20Dhabi%20Ocean%20Racing%20skipper.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 10 - Grant Dalton - Emirates Team New Zealand</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2010%20-%20Grant%20Dalton%20-%20Emirates%20Team%20New%20Zealand.mp3</link>
+			<description></description>
+			<guid>Episode 10 - Grant Dalton - Emirates Team New Zealand.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2010%20-%20Grant%20Dalton%20-%20Emirates%20Team%20New%20Zealand.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 11 - Mark Turner Extreme Sailing Series</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2011%20-%20Mark%20Turner%20Extreme%20Sailing%20Series.mp3</link>
+			<description></description>
+			<guid>Episode 11 - Mark Turner Extreme Sailing Series.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2011%20-%20Mark%20Turner%20Extreme%20Sailing%20Series.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 12 - Ray Davies Emirates Team New Zealand AC72 tactician</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2012%20-%20Ray%20Davies%20Emirates%20Team%20New%20Zealand%20AC72%20tactician.mp3</link>
+			<description></description>
+			<guid>Episode 12 - Ray Davies Emirates Team New Zealand AC72 tactician.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2012%20-%20Ray%20Davies%20Emirates%20Team%20New%20Zealand%20AC72%20tactician.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 13 - James Spithill and John Kostecki Oracle Team USA</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2013%20-%20James%20Spithill%20and%20John%20Kostecki%20Oracle%20Team%20USA.mp3</link>
+			<description></description>
+			<guid>Episode 13 - James Spithill and John Kostecki Oracle Team USA.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2013%20-%20James%20Spithill%20and%20John%20Kostecki%20Oracle%20Team%20USA.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 14 - Paul Cayard and Nathan Outteridge Artemis Racing</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2014%20-%20Paul%20Cayard%20and%20Nathan%20Outteridge%20Artemis%20Racing.mp3</link>
+			<description></description>
+			<guid>Episode 14 - Paul Cayard and Nathan Outteridge Artemis Racing.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2014%20-%20Paul%20Cayard%20and%20Nathan%20Outteridge%20Artemis%20Racing.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 15 - Francesco Bruni, Dean Barker and Ray Davies</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2015%20-%20Francesco%20Bruni,%20Dean%20Barker%20and%20Ray%20Davies.mp3</link>
+			<description></description>
+			<guid>Episode 15 - Francesco Bruni, Dean Barker and Ray Davies.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2015%20-%20Francesco%20Bruni,%20Dean%20Barker%20and%20Ray%20Davies.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 16 - Nathan Outteridge - Artemis Racing</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2016%20-%20Nathan%20Outteridge%20-%20Artemis%20Racing.mp3</link>
+			<description></description>
+			<guid>Episode 16 - Nathan Outteridge - Artemis Racing.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2016%20-%20Nathan%20Outteridge%20-%20Artemis%20Racing.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 17- ETNZ's Ray Davies and Dean Barker, Luna Rossa's Max Sirena and Chris Draper</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2017-%20ETNZ's%20Ray%20Davies%20and%20Dean%20Barker,%20Luna%20Rossa's%20Max%20Sirena%20and%20Chris%20Draper.mp3</link>
+			<description></description>
+			<guid>Episode 17- ETNZ's Ray Davies and Dean Barker, Luna Rossa's Max Sirena and Chris Draper.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2017-%20ETNZ's%20Ray%20Davies%20and%20Dean%20Barker,%20Luna%20Rossa's%20Max%20Sirena%20and%20Chris%20Draper.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 18 - ETNZ's Chris McAsey and Dean Barker, Luna Rossa's Giles Scott</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2018%20-%20ETNZ's%20Chris%20McAsey%20and%20Dean%20Barker,%20Luna%20Rossa's%20Giles%20Scott.mp3</link>
+			<description></description>
+			<guid>Episode 18 - ETNZ's Chris McAsey and Dean Barker, Luna Rossa's Giles Scott.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2018%20-%20ETNZ's%20Chris%20McAsey%20and%20Dean%20Barker,%20Luna%20Rossa's%20Giles%20Scott.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 19 - Luna Rossa's Max Sirena and Chris Draper, Artemis Racing's Iain Percy</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2019%20-%20Luna%20Rossa's%20Max%20Sirena%20and%20Chris%20Draper,%20Artemis%20Racing's%20Iain%20Percy.mp3</link>
+			<description></description>
+			<guid>Episode 19 - Luna Rossa's Max Sirena and Chris Draper, Artemis Racing's Iain Percy.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2019%20-%20Luna%20Rossa's%20Max%20Sirena%20and%20Chris%20Draper,%20Artemis%20Racing's%20Iain%20Percy.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 20 - Luna Rossa's Max Sirena and Artemis Racing's Iain Percy</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2020%20-%20Luna%20Rossa's%20Max%20Sirena%20and%20Artemis%20Racing's%20Iain%20Percy.mp3</link>
+			<description></description>
+			<guid>Episode 20 - Luna Rossa's Max Sirena and Artemis Racing's Iain Percy.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2020%20-%20Luna%20Rossa's%20Max%20Sirena%20and%20Artemis%20Racing's%20Iain%20Percy.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 21 - Ken Read's AC72 onboard experience</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2021%20-%20Ken%20Read's%20AC72%20onboard%20experience.mp3</link>
+			<description></description>
+			<guid>Episode 21 - Ken Read's AC72 onboard experience.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2021%20-%20Ken%20Read's%20AC72%20onboard%20experience.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 22 - James Spithill and Ben Ainslie Oracle Team USA helmsmen</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2022%20-%20James%20Spithill%20and%20Ben%20Ainslie%20Oracle%20Team%20USA%20helmsmen.mp3</link>
+			<description></description>
+			<guid>Episode 22 - James Spithill and Ben Ainslie Oracle Team USA helmsmen.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2022%20-%20James%20Spithill%20and%20Ben%20Ainslie%20Oracle%20Team%20USA%20helmsmen.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 23 - America's Cup update</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2023%20-%20America's%20Cup%20update.mp3</link>
+			<description></description>
+			<guid>Episode 23 - America's Cup update.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2023%20-%20America's%20Cup%20update.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 24 - Barker and Spithill after AC races three and four</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2024%20-%20Barker%20and%20Spithill%20after%20AC%20races%20three%20and%20four.mp3</link>
+			<description></description>
+			<guid>Episode 24 - Barker and Spithill after AC races three and four.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2024%20-%20Barker%20and%20Spithill%20after%20AC%20races%20three%20and%20four.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 25 - ETNZ's Ray Davies and TV New Zealand's Peter Lester after AC race five</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2025%20-%20ETNZ's%20Ray%20Davies%20and%20TV%20New%20Zealand's%20Peter%20Lester%20after%20AC%20race%20five.mp3</link>
+			<description></description>
+			<guid>Episode 25 - ETNZ's Ray Davies and TV New Zealand's Peter Lester after AC race five.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2025%20-%20ETNZ's%20Ray%20Davies%20and%20TV%20New%20Zealand's%20Peter%20Lester%20after%20AC%20race%20five.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 26 - Oracle Team USA tactician Sir Ben Ainslie</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2026%20-%20Oracle%20Team%20USA%20tactician%20Sir%20Ben%20Ainslie.mp3</link>
+			<description></description>
+			<guid>Episode 26 - Oracle Team USA tactician Sir Ben Ainslie.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2026%20-%20Oracle%20Team%20USA%20tactician%20Sir%20Ben%20Ainslie.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 27 - ETNZ tactician Ray Davies</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2027%20-%20ETNZ%20tactician%20Ray%20Davies.mp3</link>
+			<description></description>
+			<guid>Episode 27 - ETNZ tactician Ray Davies.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2027%20-%20ETNZ%20tactician%20Ray%20Davies.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 28 - James Spithill and Russell Coutts on 34 America's Cup victory</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2028%20-%20James%20Spithill%20and%20Russell%20Coutts%20on%2034%20America's%20Cup%20victory.mp3</link>
+			<description></description>
+			<guid>Episode 28 - James Spithill and Russell Coutts on 34 America's Cup victory.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2028%20-%20James%20Spithill%20and%20Russell%20Coutts%20on%2034%20America's%20Cup%20victory.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 29 - Luna Rossa's Chris Draper reflects on America's Cup experience</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2029%20-%20Luna%20Rossa's%20Chris%20Draper%20reflects%20on%20America's%20Cup%20experience.mp3</link>
+			<description></description>
+			<guid>Episode 29 - Luna Rossa's Chris Draper reflects on America's Cup experience.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2029%20-%20Luna%20Rossa's%20Chris%20Draper%20reflects%20on%20America's%20Cup%20experience.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
+			<title>Episode 30 - Mike Sanderson on Bella Mente</title>
+			<link>http://koheik.sakura.ne.jp/podcast/files/Episode%2030%20-%20Mike%20Sanderson%20on%20Bella%20Mente.mp3</link>
+			<description></description>
+			<guid>Episode 30 - Mike Sanderson on Bella Mente.mp3</guid>
+			<enclosure url="http://koheik.sakura.ne.jp/podcast/files/Episode%2030%20-%20Mike%20Sanderson%20on%20Bella%20Mente.mp3" type="audio/mpeg" />
+			<category>Podcast</category>
+			<pubDate>Tue, 03 February 2015 00:00:05 +0900</pubDate>
+			<dc:creator>Sail Racing Magazine</dc:creator>
+			<itunes:author>Sail Racing Magazine</itunes:author>
+			<itunes:category text="Podcast" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	</channel>
+</rss>
