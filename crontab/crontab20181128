@@ -1,0 +1,9 @@
+HOST=www1790.sakura.ne.jp
+LD_LIBRARY_PATH=/home/koheik/root/lib
+59	4	*	*	*	/home/koheik/bin/podcast.rb >> /home/koheik/log/podcast.log
+29	6	*	*	*	/home/koheik/bin/butazura2.rb > /home/koheik/log/butazura2.log
+59	0	*	*	2	/home/koheik/bin/radiko.sh ButaZura 120 TBS >> /home/koheik/log/radiko.log
+59	14	*	*	2	/home/koheik/bin/radiko.sh Machi 30 TBS >> /home/koheik/log/radiko.log
+59	12	*	*	5	/home/koheik/bin/radiko.sh Tamamusubi 150 TBS >> /home/koheik/log/radiko.log
+59	9	*	*	7	/home/koheik/bin/radiko.sh Nichiten 120 TBS >> /home/koheik/log/radiko.log
+59	17	*	*	1-5	/home/koheik/bin/radiko.sh AfterSix 175 TBS >> /home/koheik/log/radiko.log
